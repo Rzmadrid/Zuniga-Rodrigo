@@ -1,0 +1,13 @@
+[2024-08-13 18:55:18] [ INFO ] [OdontologoDaoH2:35] [guardar] Odontologo Ingresado Odontologo{id=3, nroMatricula=3, nombre='ra', Apellido='zu'}
+[2024-08-13 18:56:36] [ INFO ] [OdontologoDaoH2:79] [listarTodos] Odontologo{id=1, nroMatricula=1, nombre='JULIO', Apellido='ALMIRON'}
+[2024-08-13 18:56:36] [ INFO ] [OdontologoDaoH2:79] [listarTodos] Odontologo{id=2, nroMatricula=2, nombre='JUAN', Apellido='PEREZ'}
+[2024-08-13 19:14:13] [ INFO ] [OdontologoDaoMemoria:19] [guardar] odontologo guardado Odontologo{id=1, nroMatricula=3, nombre='ra', Apellido='zu'}
+[2024-08-13 19:20:36] [ INFO ] [OdontologoDaoMemoria:19] [guardar] odontologo guardado Odontologo{id=1, nroMatricula=3, nombre='Luciano', Apellido='Jara'}
+[2024-08-13 19:21:37] [ INFO ] [OdontologoDaoMemoria:19] [guardar] odontologo guardado Odontologo{id=1, nroMatricula=3, nombre='Luciano', Apellido='Jara'}
+[2024-08-13 19:21:37] [ INFO ] [OdontologoDaoMemoria:19] [guardar] odontologo guardado Odontologo{id=2, nroMatricula=3, nombre='Luciano', Apellido='Jara'}
+[2024-08-13 19:21:48] [ INFO ] [OdontologoDaoMemoria:19] [guardar] odontologo guardado Odontologo{id=1, nroMatricula=3, nombre='Luciano', Apellido='Jara'}
+[2024-08-13 19:21:48] [ INFO ] [OdontologoDaoMemoria:19] [guardar] odontologo guardado Odontologo{id=2, nroMatricula=4, nombre='david', Apellido='Zamora'}
+[2024-08-13 19:22:13] [ INFO ] [OdontologoDaoH2:79] [listarTodos] Odontologo{id=1, nroMatricula=1, nombre='JULIO', Apellido='ALMIRON'}
+[2024-08-13 19:22:13] [ INFO ] [OdontologoDaoH2:79] [listarTodos] Odontologo{id=2, nroMatricula=2, nombre='JUAN', Apellido='PEREZ'}
+[2024-08-13 19:22:24] [ INFO ] [OdontologoDaoMemoria:19] [guardar] odontologo guardado Odontologo{id=1, nroMatricula=3, nombre='Luciano', Apellido='Jara'}
+[2024-08-13 19:22:24] [ INFO ] [OdontologoDaoMemoria:19] [guardar] odontologo guardado Odontologo{id=2, nroMatricula=4, nombre='david', Apellido='Zamora'}
